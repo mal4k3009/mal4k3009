@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJS & ReactNative**
 
-- 👨‍💻 All of my projects are available at [https://bhadgaonkarmalak.wixstudio.com/my-site](https://bhadgaonkarmalak.wixstudio.com/my-site)
+- 👨‍💻 All of my projects are available at [https://github.com/mal4k3009](https://github.com/mal4k3009)
 
 - 💬 Ask me about **ReactJS NodeJS Firebase Python NextJS AI/ML**
 
