@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI CHATBOT - ChatSphere**
 
-- 🌱 I’m currently learning **ReactJS NodeJS Firebase Python Django Flask Flutter Rust Solidity NextJS ReactNative**
+- 🌱 I’m currently learning **NextJS & ReactNative**
 
 - 👨‍💻 All of my projects are available at [https://bhadgaonkarmalak.wixstudio.com/my-site](https://bhadgaonkarmalak.wixstudio.com/my-site)
 
